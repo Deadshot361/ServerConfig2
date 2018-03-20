@@ -27,6 +27,7 @@ powers:
 - /haste <0-5>
 - /carryplayer <player>
 - /dismountplayer
+- /drown <player>
 run: 5
 speech: God of the Sea!
 trail: [
